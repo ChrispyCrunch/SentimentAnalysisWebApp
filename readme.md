@@ -1,7 +1,7 @@
 # Sentiment Analysis Web App
 
 ![Sentiment Analysis Web App UI screenshot](sample_images/webApp_ui_example.png)
-
+|||
 :-------------------------:|:-------------------------:
 ![](sample_images/webApp_ui_positive.png)  |  ![](sample_images/webApp_ui_negative.png)
 
