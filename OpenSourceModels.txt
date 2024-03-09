@@ -1,0 +1,1 @@
+Lik Xun Yuan. (2023). distilbert-base-multilingual-cased-sentiments-student (Revision 2e33845) https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student
