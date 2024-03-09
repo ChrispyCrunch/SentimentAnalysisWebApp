@@ -5,7 +5,7 @@
 :-------------------------:|:-------------------------:
 ![positive screenshot](sample_images/webApp_ui_positive.png)  |  ![negative screenshot](sample_images/webApp_ui_negative.png)
 
-Hey there! I wanted to share a little project I've been working on: a straightforward sentiment analysis tool. It's a simple web app that analyzes the sentiment of any text you throw at it, showing not just the result but also how confident it is with that judgment, in percentage form. I wanted to use a neobrutalism inspired design since I have come to love it.
+Hey there! I wanted to share a little project I've been working on: a straightforward sentiment analysis tool. It's a simple web app that analyzes the sentiment of any text you throw at it, showing not just the result but also how confident it is with that judgment, in percentage form. I wanted to use a neo-brutalism inspired design since I have come to love it.
 
 ## What's Under the Hood
 
